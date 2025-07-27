@@ -1,4 +1,4 @@
-# 📝 Handwritten Equation Solver
+# 📝 Handwritten MathScribe
 
 
 ---
@@ -88,6 +88,7 @@ Backend API: http://localhost:8000
 Contact
 📛 Developer: Saurabh Gupta
 💻 GitHub: github.com/SaurabhSkill
+📝 Linkedin : http://linkedin.com/in/saurabh-gupta-0902642a4
 
 
 
