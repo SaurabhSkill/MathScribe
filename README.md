@@ -1,6 +1,5 @@
 # 📝 Handwritten Equation Solver
 
-> Predict and solve handwritten mathematical equations from an image using OCR and AI.
 
 ---
 
