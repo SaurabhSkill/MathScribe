@@ -85,9 +85,9 @@ Frontend: http://localhost:3000
 Backend API: http://localhost:8000
 
 
-Contact
-📛 Developer: Saurabh Gupta
-💻 GitHub: github.com/SaurabhSkill
+Contact <br>
+📛 Developer: Saurabh Gupta<br>
+💻 GitHub: github.com/SaurabhSkill<br>
 📝 Linkedin : http://linkedin.com/in/saurabh-gupta-0902642a4
 
 
